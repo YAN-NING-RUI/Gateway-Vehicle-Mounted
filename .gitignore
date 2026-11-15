@@ -1,0 +1,23 @@
+# STM32CubeIDE 构建产物
+Debug/
+Release/
+.settings/
+
+# 编译器与链接产物
+*.o
+*.d
+*.su
+*.cyclo
+*.elf
+*.map
+*.list
+*.hex
+*.bin
+
+# 调试器 / 崩溃转储
+*.dump
+*.log
+
+# 系统与 IDE 杂项
+Thumbs.db
+.DS_Store
